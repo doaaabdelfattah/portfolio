@@ -137,15 +137,7 @@ const Navbar = ({ isDarkMode, setIsDarkMode }) => {
               About me
             </a>
           </li>
-          <li>
-            <a
-              className="font-Ovo hover:text-slate-400 duration-100"
-              onClick={closeMenu}
-              href="#services"
-            >
-              Services
-            </a>
-          </li>
+
           <li>
             <a
               className="font-Ovo hover:text-slate-400 duration-100"
